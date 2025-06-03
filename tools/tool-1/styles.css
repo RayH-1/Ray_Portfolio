@@ -1,0 +1,29 @@
+body {
+  font-family: sans-serif;
+  margin: 20px;
+}
+
+#container {
+  max-width: 800px;
+  margin: auto;
+}
+
+#map {
+  height: 700px;
+  width: 100%;
+}
+
+#slider-container {
+  margin-top: 20px;
+  width: 159%;
+}
+
+input[type="range"] {
+  width: 100%;
+}
+
+#slider-label {
+  text-align: center;
+  margin-top: 5px;
+  font-size: 1.1em;
+}
