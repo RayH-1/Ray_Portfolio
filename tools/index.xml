@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tools on Ray&#39;s Portfolio</title>
-    <link>https://arraysrh.com/tools/</link>
+    <link>https://rayh-1.github.io/Ray_Portfolio/tools/</link>
     <description>Recent content in Tools on Ray&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://arraysrh.com/tools/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rayh-1.github.io/Ray_Portfolio/tools/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dynamic Map: Major Trading Partner</title>
-      <link>https://arraysrh.com/tools/tool-1/</link>
+      <link>https://rayh-1.github.io/Ray_Portfolio/tools/tool-1/</link>
       <pubDate>Sun, 01 Jun 2025 11:00:59 -0400</pubDate>
       
-      <guid>https://arraysrh.com/tools/tool-1/</guid>
+      <guid>https://rayh-1.github.io/Ray_Portfolio/tools/tool-1/</guid>
       <description>The following map uses data from the IMF Direction of Trade.
 IMF Trade Mapbody {font-family: sans-serif;margin: 20px;}#container {max-width: 800px;margin: auto;}#map {height: 700px;width: 100%;}#slider-container {margin-top: 20px;width: 159%;}input[type=&#34;range&#34;] {width: 100%;}#slider-label {text-align: center;margin-top: 5px;font-size: 1.1em;}let allData = [];let periods = [];fetch(&#39;/data.</description>
     </item>

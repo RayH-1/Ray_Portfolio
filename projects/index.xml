@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Ray&#39;s Portfolio</title>
-    <link>https://arraysrh.com/projects/</link>
+    <link>https://rayh-1.github.io/Ray_Portfolio/projects/</link>
     <description>Recent content in Projects on Ray&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://arraysrh.com/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rayh-1.github.io/Ray_Portfolio/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Project 7: Visualizing Global Imports from Major Economic Powers (China, EU, USA) since 2000</title>
-      <link>https://arraysrh.com/projects/project-7/</link>
+      <link>https://rayh-1.github.io/Ray_Portfolio/projects/project-7/</link>
       <pubDate>Mon, 19 May 2025 11:00:59 -0400</pubDate>
       
-      <guid>https://arraysrh.com/projects/project-7/</guid>
+      <guid>https://rayh-1.github.io/Ray_Portfolio/projects/project-7/</guid>
       <description>Use IMF API to automatically collect relevant data soures Process data as needed Create metrics to define majority import (in this case which ever of the three countries the share of the imports are from) Combine geojson file with data so that there is a proper geospatial file with the neceesary information Creating visuals of the dataset Start to finish process in one Jupyter Notebook    GitHub Repository</description>
     </item>
     
     <item>
       <title>Project 6: Bike Infrastructure Availability &amp; Quality in Berlin vs. Amsterdamm</title>
-      <link>https://arraysrh.com/projects/project-6/</link>
+      <link>https://rayh-1.github.io/Ray_Portfolio/projects/project-6/</link>
       <pubDate>Fri, 16 May 2025 11:00:59 -0400</pubDate>
       
-      <guid>https://arraysrh.com/projects/project-6/</guid>
+      <guid>https://rayh-1.github.io/Ray_Portfolio/projects/project-6/</guid>
       <description>Define metrics:  Availability = Bike Paths (km)/ Roads (km) Quality = ( Seperated Bikepaths / All Bike Paths )*100   Utilize API to collect data from OpenStreetMap Acquire appropriate shapefiles from the city authorities Clean and process data Create data visualizations and report findings    GitHub Repository</description>
     </item>
     
     <item>
       <title>Project 5: Predicting Vote &amp; Ideology with Demographics and Browsing Data (Thesis)</title>
-      <link>https://arraysrh.com/projects/project-5/</link>
+      <link>https://rayh-1.github.io/Ray_Portfolio/projects/project-5/</link>
       <pubDate>Thu, 08 May 2025 11:00:59 -0400</pubDate>
       
-      <guid>https://arraysrh.com/projects/project-5/</guid>
+      <guid>https://rayh-1.github.io/Ray_Portfolio/projects/project-5/</guid>
       <description>Extracted features from the Media Exposure and Opinion Formation (MEOF) survey. Processed large quantities (millions of rows) of user trace data from YouGov Utilized Python and R for proper data cleaning Segmented and documented code for modularized implementation Optimized Machine Learning models, neural networks, and utilized natural language processing for topic modeling  The model performance for ideology is significantly better.     GitHub Repository
 Paper</description>
     </item>
     
     <item>
       <title>Project 4: Natural Language Processing 25 Years of EU Climate Policy</title>
-      <link>https://arraysrh.com/projects/project-4/</link>
+      <link>https://rayh-1.github.io/Ray_Portfolio/projects/project-4/</link>
       <pubDate>Wed, 30 Apr 2025 11:00:59 -0400</pubDate>
       
-      <guid>https://arraysrh.com/projects/project-4/</guid>
+      <guid>https://rayh-1.github.io/Ray_Portfolio/projects/project-4/</guid>
       <description>This project expands on the work by Sewerin, S., Kaack, L.H., Küttel, J. et al. Towards understanding policy design through text-as-data approaches: The policy design annotations (POLIANNA) dataset. Sci Data 10, 896 (2023). https://doi.org/10.1038/s41597-023-02801-z.
 The POLIANNA is a dataset of policy texts from the European Union (EU) that are annotated based on theoretical concepts of policy design, which can be used to develop supervised machine learning approaches for scaling policy analysis.</description>
     </item>
     
     <item>
       <title>Project 3: Implementing Code Carbon&#39;s Energy Management</title>
-      <link>https://arraysrh.com/projects/project-3/</link>
+      <link>https://rayh-1.github.io/Ray_Portfolio/projects/project-3/</link>
       <pubDate>Tue, 10 Dec 2024 11:13:32 -0400</pubDate>
       
-      <guid>https://arraysrh.com/projects/project-3/</guid>
+      <guid>https://rayh-1.github.io/Ray_Portfolio/projects/project-3/</guid>
       <description>Artificial Intelligence (AI) has been revolutionary, but its rapid growth has come with significant environmental costs. Training and deploying large-scale AI models require substantial computational resources, resulting in increased energy consumption and greenhouse gas emissions. This tutorial addresses these challenges by introducing energy-efficient deep learning practices and tools to measure, analyze, and mitigate the carbon footprint of AI systems.
 The goals of this tutorial are:
  Educate participants on the environmental impact of AI and the importance of sustainable practices.</description>
@@ -62,10 +62,10 @@ The goals of this tutorial are:
     
     <item>
       <title>Project 2: Debt Settlemet App</title>
-      <link>https://arraysrh.com/projects/project-2/</link>
+      <link>https://rayh-1.github.io/Ray_Portfolio/projects/project-2/</link>
       <pubDate>Mon, 06 May 2024 10:58:08 -0400</pubDate>
       
-      <guid>https://arraysrh.com/projects/project-2/</guid>
+      <guid>https://rayh-1.github.io/Ray_Portfolio/projects/project-2/</guid>
       <description>Created a &amp;ldquo;Debt Settlement App&amp;rdquo; for Data Structures and Algorithms Course. The app is able to do the following:
  Add users to the application Create groups and add new members to the group Add expenses in the group and let the application handle all the splitting When confused about the overall expenses, go and check the Personal and Overall Dashboard  Further more this task involved:
  Back-end Front-end Algorithm selection Working with databases  GitHub Repository Note: The Live Demo is currently unavailable Presentation Slides</description>
@@ -73,10 +73,10 @@ The goals of this tutorial are:
     
     <item>
       <title>Project 1: Building Geospatial Visualizations with Leaflet</title>
-      <link>https://arraysrh.com/projects/project-1/</link>
+      <link>https://rayh-1.github.io/Ray_Portfolio/projects/project-1/</link>
       <pubDate>Sat, 28 Oct 2023 11:00:59 -0400</pubDate>
       
-      <guid>https://arraysrh.com/projects/project-1/</guid>
+      <guid>https://rayh-1.github.io/Ray_Portfolio/projects/project-1/</guid>
       <description>This is a student-run workshop workshop session on the Leaflet package in R.
  equip attendees with conceptual knowledge about the leaflet package and some of its applications for geospatial analysis show attendees key functions and the basic steps to make an interactive map in R provide attendees with practice exercises as well as some further material that can be useful for the topic of this workshop  Tasks involed:</description>
     </item>

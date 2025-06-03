@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OpenStreetMap on Ray&#39;s Portfolio</title>
-    <link>https://arraysrh.com/tags/openstreetmap/</link>
+    <link>https://rayh-1.github.io/Ray_Portfolio/tags/openstreetmap/</link>
     <description>Recent content in OpenStreetMap on Ray&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 May 2025 11:00:59 -0400</lastBuildDate>
     
-	<atom:link href="https://arraysrh.com/tags/openstreetmap/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rayh-1.github.io/Ray_Portfolio/tags/openstreetmap/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Project 6: Bike Infrastructure Availability &amp; Quality in Berlin vs. Amsterdamm</title>
-      <link>https://arraysrh.com/projects/project-6/</link>
+      <link>https://rayh-1.github.io/Ray_Portfolio/projects/project-6/</link>
       <pubDate>Fri, 16 May 2025 11:00:59 -0400</pubDate>
       
-      <guid>https://arraysrh.com/projects/project-6/</guid>
+      <guid>https://rayh-1.github.io/Ray_Portfolio/projects/project-6/</guid>
       <description>Define metrics:  Availability = Bike Paths (km)/ Roads (km) Quality = ( Seperated Bikepaths / All Bike Paths )*100   Utilize API to collect data from OpenStreetMap Acquire appropriate shapefiles from the city authorities Clean and process data Create data visualizations and report findings    GitHub Repository</description>
     </item>
     
