@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Processing on Ray&#39;s Portfolio</title>
+    <link>https://arraysrh.com/tags/data-processing/</link>
+    <description>Recent content in Data Processing on Ray&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 May 2025 11:00:59 -0400</lastBuildDate>
+    
+	<atom:link href="https://arraysrh.com/tags/data-processing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 7: Visualizing Global Imports from Major Economic Powers (China, EU, USA) since 2000</title>
+      <link>https://arraysrh.com/projects/project-7/</link>
+      <pubDate>Mon, 19 May 2025 11:00:59 -0400</pubDate>
+      
+      <guid>https://arraysrh.com/projects/project-7/</guid>
+      <description>Use IMF API to automatically collect relevant data soures Process data as needed Create metrics to define majority import (in this case which ever of the three countries the share of the imports are from) Combine geojson file with data so that there is a proper geospatial file with the neceesary information Creating visuals of the dataset Start to finish process in one Jupyter Notebook    GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 5: Predicting Vote &amp; Ideology with Demographics and Browsing Data (Thesis)</title>
+      <link>https://arraysrh.com/projects/project-5/</link>
+      <pubDate>Thu, 08 May 2025 11:00:59 -0400</pubDate>
+      
+      <guid>https://arraysrh.com/projects/project-5/</guid>
+      <description>Extracted features from the Media Exposure and Opinion Formation (MEOF) survey. Processed large quantities (millions of rows) of user trace data from YouGov Utilized Python and R for proper data cleaning Segmented and documented code for modularized implementation Optimized Machine Learning models, neural networks, and utilized natural language processing for topic modeling  The model performance for ideology is significantly better.     GitHub Repository
+Paper</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on Ray&#39;s Portfolio</title>
+    <link>https://arraysrh.com/tags/r/</link>
+    <description>Recent content in R on Ray&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Oct 2023 11:00:59 -0400</lastBuildDate>
+    
+	<atom:link href="https://arraysrh.com/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 1: Building Geospatial Visualizations with Leaflet</title>
+      <link>https://arraysrh.com/projects/project-1/</link>
+      <pubDate>Sat, 28 Oct 2023 11:00:59 -0400</pubDate>
+      
+      <guid>https://arraysrh.com/projects/project-1/</guid>
+      <description>This is a student-run workshop workshop session on the Leaflet package in R.
+ equip attendees with conceptual knowledge about the leaflet package and some of its applications for geospatial analysis show attendees key functions and the basic steps to make an interactive map in R provide attendees with practice exercises as well as some further material that can be useful for the topic of this workshop  Tasks involed:</description>
+    </item>
+    
+  </channel>
+</rss>

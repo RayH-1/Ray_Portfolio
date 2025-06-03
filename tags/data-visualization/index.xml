@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Visualization on Ray&#39;s Portfolio</title>
+    <link>https://arraysrh.com/tags/data-visualization/</link>
+    <description>Recent content in Data Visualization on Ray&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jun 2025 11:00:59 -0400</lastBuildDate>
+    
+	<atom:link href="https://arraysrh.com/tags/data-visualization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dynamic Map: Major Trading Partner</title>
+      <link>https://arraysrh.com/tools/tool-1/</link>
+      <pubDate>Sun, 01 Jun 2025 11:00:59 -0400</pubDate>
+      
+      <guid>https://arraysrh.com/tools/tool-1/</guid>
+      <description>The following map uses data from the IMF Direction of Trade.
+IMF Trade Mapbody {font-family: sans-serif;margin: 20px;}#container {max-width: 800px;margin: auto;}#map {height: 700px;width: 100%;}#slider-container {margin-top: 20px;width: 159%;}input[type=&#34;range&#34;] {width: 100%;}#slider-label {text-align: center;margin-top: 5px;font-size: 1.1em;}let allData = [];let periods = [];fetch(&#39;/data.</description>
+    </item>
+    
+    <item>
+      <title>Project 7: Visualizing Global Imports from Major Economic Powers (China, EU, USA) since 2000</title>
+      <link>https://arraysrh.com/projects/project-7/</link>
+      <pubDate>Mon, 19 May 2025 11:00:59 -0400</pubDate>
+      
+      <guid>https://arraysrh.com/projects/project-7/</guid>
+      <description>Use IMF API to automatically collect relevant data soures Process data as needed Create metrics to define majority import (in this case which ever of the three countries the share of the imports are from) Combine geojson file with data so that there is a proper geospatial file with the neceesary information Creating visuals of the dataset Start to finish process in one Jupyter Notebook    GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 6: Bike Infrastructure Availability &amp; Quality in Berlin vs. Amsterdamm</title>
+      <link>https://arraysrh.com/projects/project-6/</link>
+      <pubDate>Fri, 16 May 2025 11:00:59 -0400</pubDate>
+      
+      <guid>https://arraysrh.com/projects/project-6/</guid>
+      <description>Define metrics:  Availability = Bike Paths (km)/ Roads (km) Quality = ( Seperated Bikepaths / All Bike Paths )*100   Utilize API to collect data from OpenStreetMap Acquire appropriate shapefiles from the city authorities Clean and process data Create data visualizations and report findings    GitHub Repository</description>
+    </item>
+    
+  </channel>
+</rss>

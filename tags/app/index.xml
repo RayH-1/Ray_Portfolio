@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>App on Ray&#39;s Portfolio</title>
+    <link>https://arraysrh.com/tags/app/</link>
+    <description>Recent content in App on Ray&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 May 2024 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://arraysrh.com/tags/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 2: Debt Settlemet App</title>
+      <link>https://arraysrh.com/projects/project-2/</link>
+      <pubDate>Mon, 06 May 2024 10:58:08 -0400</pubDate>
+      
+      <guid>https://arraysrh.com/projects/project-2/</guid>
+      <description>Created a &amp;ldquo;Debt Settlement App&amp;rdquo; for Data Structures and Algorithms Course. The app is able to do the following:
+ Add users to the application Create groups and add new members to the group Add expenses in the group and let the application handle all the splitting When confused about the overall expenses, go and check the Personal and Overall Dashboard  Further more this task involved:
+ Back-end Front-end Algorithm selection Working with databases  GitHub Repository Note: The Live Demo is currently unavailable Presentation Slides</description>
+    </item>
+    
+  </channel>
+</rss>
